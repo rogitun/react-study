@@ -5,14 +5,13 @@ import App from './App';
 import reportWebVitals from './reportWebVitals';
 import State from './test/state';
 
-
 const root = ReactDOM.createRoot(document.getElementById('root'));
 
 
 root.render(
   <Fragment>
   <State/>
-  <hr></hr>
+
     <App />
     </Fragment>
 );
