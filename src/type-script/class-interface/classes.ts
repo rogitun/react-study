@@ -7,7 +7,7 @@ class Plyaer{
 
 const hansel = new Plyaer("Hanseul", "Hwang")
 
-console.log(hansel);
+console.log(hansel)
 
 
 abstract class User{
